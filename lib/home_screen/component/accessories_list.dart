@@ -69,7 +69,7 @@ class AccessoriesList extends StatelessWidget {
                                   ),
                                   child: Text(
                                     "Accessories",
-                                    style: TextStyle(color: Colors.blue),
+                                    style: TextStyle(color: Colors.blue, fontSize: 10.0, fontWeight: FontWeight.w300),
                                   ),
                                 ),
                               ],

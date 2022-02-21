@@ -72,7 +72,7 @@ class ConsoleList extends StatelessWidget {
                                   ),
                                   child: Text(
                                     "Game Console",
-                                    style: TextStyle(color: Colors.blue),
+                                    style: TextStyle(color: Colors.blue, fontSize: 10.0, fontWeight: FontWeight.w300),
                                   ),
                                 ),
                               ],
